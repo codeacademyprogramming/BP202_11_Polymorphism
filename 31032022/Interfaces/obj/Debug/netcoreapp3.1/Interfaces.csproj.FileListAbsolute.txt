@@ -1,0 +1,9 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\14. 31032022\31032022\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb

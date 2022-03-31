@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f404d902-7d89-4bdd-b699-53b0cab71a63": {
+      "ProjectGuid": "f404d902-7d89-4bdd-b699-53b0cab71a63",
+      "DisplayName": "Task",
+      "ColorIndex": 0
+    },
+    "2010b154-f118-4557-85ee-66ada0c5908a": {
+      "ProjectGuid": "2010b154-f118-4557-85ee-66ada0c5908a",
+      "DisplayName": "Models",
+      "ColorIndex": 1
+    },
+    "750108ef-b727-4b50-bc68-d762685be267": {
+      "ProjectGuid": "750108ef-b727-4b50-bc68-d762685be267",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 2
+    },
+    "e5ae3fb8-1be0-4131-a247-01e9d2032884": {
+      "ProjectGuid": "e5ae3fb8-1be0-4131-a247-01e9d2032884",
+      "DisplayName": "Polymorphism",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
